@@ -1,1 +1,14 @@
 # tareaspepacanepa
+
+# Super rich theory 
+https://pudding.cool/2022/12/yard-sale/ 
+
+Esta es la historia de una persona que compra un reloj por más de lo que realmente vale. A partir de esa experiencia cotidiana, el relato introduce la llamada teoría del súper rico, que sostiene que la economía está estructurada de manera que inevitablemente genera un pequeño grupo de personas extremadamente ricas. Para explicar este fenómeno, se utiliza el modelo matemático conocido como “Yard-sale”, el cual demuestra que, incluso en un mercado libre donde las transacciones parecen justas, la riqueza tiende a concentrarse en pocas manos.
+
+El modelo funciona de manera sencilla: dos personas apuestan una fracción de su riqueza en cada transacción. Ambos tienen la misma probabilidad de ganar o perder, pero los más ricos poseen una ventaja estructural. Pueden absorber pérdidas sin que su patrimonio se vea comprometido y, al mismo tiempo, acumular ganancias con mayor facilidad. El resultado es que, con el paso del tiempo, la riqueza se concentra en unos pocos, incluso si al inicio todos tenían oportunidades similares y no existían trampas ni desigualdades marcadas.
+
+Lo que hace atractivo este relato es su estructura narrativa híbrida y progresiva. Comienza con una experiencia personal y cotidiana, pasa a un juego simple que cualquiera puede entender y finalmente conecta con fenómenos sociales más amplios. Esta progresión permite que el lector se involucre y comprenda un concepto complejo sin sentirlo distante. Además, el uso de gráficos y simulaciones interactivas convierte la lectura en una experiencia activa: el lector no solo recibe información, sino que participa en la demostración del modelo.
+
+La efectividad del artículo radica en su capacidad para transmitir información clara y persuasiva. La narrativa personal genera empatía, las visualizaciones refuerzan la comprensión y la conclusión invita a reflexionar sobre la necesidad de políticas redistributivas. Aunque el modelo simplifica la economía real y no contempla todas sus variables, cumple su objetivo principal: mostrar cómo la concentración de riqueza puede ser un resultado inevitable de dinámicas estructurales.
+
+Su mayor virtud es que convierte un tema abstracto en una historia accesible, atractiva y crítica. Al cuestionar ideas comunes sobre el “mercado libre” y el “trickle-down economics”, el relato abre un espacio para pensar en alternativas y en la importancia de la redistribución. En definitiva, logra transformar un modelo matemático en una narrativa visual y comprensible, que no solo transmite información, sino que también enseña y provoca reflexión.
